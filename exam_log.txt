@@ -1,0 +1,286 @@
+   0 wsl
+   1 pkg update
+   2 apk add pkg
+   3 apk upgrade
+   4 apk add Cmatrix
+   5 apk add world[Cmatrix]
+   6 apk add cmatrix
+   7 apk add proof-distroo
+   8 apk add proof-distro
+   9 apk add proot-distro
+  10 apk update
+  11 apk upgrade
+  12 apk add proot
+  13 apk add python3
+  14 apk add apache2
+  15 apk add gir
+  16 apk add git
+  17 git
+  18 apk add gh
+  19 apk add github-cli
+  20 apk upgrade
+  21 apk add github-cli
+  22 apk upgrade
+  23 github-cli
+  24 gh
+  25 git
+  26 gh
+  27 apk list-installed
+  28 --help
+  29 apk --help
+  30 list
+  31 apk list
+  32 clear
+  33 apk --help
+  34 clear
+  35 passwd
+  36 ifconfig
+  37 ipconfit
+  38 ipconfig
+  39 find
+  40 apk --help
+  41 apk fix
+  42 apk update && upgrade -y
+  43 apk upgrade
+  44 clear
+  45 apk upgrade -y
+  46 apk upgrade
+  47 gh
+  48 apk upgrade
+  49 apk github-cli
+  50 apk add github-cli
+  51 gh
+  52 git clone https://github.com/lananreen/237012510_Tarlac.git
+  53 git status
+  54 gh
+  55 git init
+  56 cd 237012510_Tarlac
+  57 git status
+  58 gh
+  59 git
+  60 apk --help
+  61 nano lab.txt
+  62 apk add nano
+  63 apk upgrade
+  64 nano lab.txt
+  65 nano
+  66 apk add nano
+  67 apk upgrade
+  68 apk add nano
+  69 apk upgrade
+  70 apk add nano
+  71 apk upgrade
+  72 apk add vim
+  73 apk
+  74 apk upgrade
+  75 apk add vi
+  76 touch lab.txt
+  77 del lab.txt
+  78 rm lab.txt
+  79 la
+  80 ls
+  81 cd 237012510_Tarlac
+  82 touch lab.txt
+  83 git add
+  84 git add .
+  85 git
+  86 git commit 
+  87 gh
+  88 gh auth login
+  89 git auth login
+  90 gh auth login
+  91 cd 237012510_Tarlac
+  92 gh auth login
+  93 cd ..
+  94 ssh
+  95 apk add ssh
+  96 search ssh
+  97 cd 237012510_Tarlax
+  98 237012510_Tarlac
+  99 cd 237012510_Tarlac
+ 100 gh auth login
+ 101 cd 237012510_Tarlac
+ 102 git auth login
+ 103 gh auth login
+ 104 cd 237012510_Tarlac
+ 105 gh auth login
+ 106 cd 237012510_Tarlac
+ 107 gh auth login
+ 108 apk upgrade
+ 109 gh auth login
+ 110 apk update && upgrade -y
+ 111 gh auth login
+ 112 verify auth login
+ 113 gh auth login
+ 114 cd 237012510_Tarlac
+ 115 ls
+ 116 git commit "test"
+ 117 git
+ 118 git commit
+ 119 git config --global user.email lananreen@gmail.com
+ 120 git commit
+ 121 cd 237012510_Ta
+ 122 cd 237012510_Tarlac
+ 123 ls
+ 124 rm lab.txt
+ 125 ls
+ 126 touch lab.txt
+ 127 git add
+ 128 git add .
+ 129 git commit
+ 130 cd 237012510_Tarlac
+ 131 ls
+ 132 rm lab.txt
+ 133 touch lab.txt
+ 134 git add . 
+ 135 git commit
+ 136 apk add java
+ 137 apk update
+ 138 apk add upgrade
+ 139 apk upgrade
+ 140 apache2
+ 141 python3
+ 142 cd 237012510_Tarlac
+ 143 ls
+ 144 rm lab.txt
+ 145 touch lab.txt
+ 146 git add .
+ 147 git commit
+ 148 cd 237012510_Tarlac
+ 149 rm lab.txt
+ 150 touch test.txt
+ 151 git add .
+ 152 git commit #erm
+ 153 gh auth login
+ 154 apk update && upgrade 
+ 155 apk upgrade
+ 156 apk update
+ 157 gh auth login
+ 158 gh auth lofin
+ 159 gh auth login
+ 160 gh auth login --with-token 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
+ 161 gh auth status
+ 162 gh auth login
+ 163 cd 237012510_Tarlac
+ 164 ls
+ 165 rm test.txt
+ 166 touch text.txt
+ 167 git add .
+ 168 git commit -m "test"
+ 169 git push
+ 170 ls
+ 171 rm text.txt
+ 172 clear
+ 173 history -c
+ 174 clear
+ 175 history -c
+ 176 clear
+ 177 help
+ 178 clear
+ 179 history
+ 180 history clear
+ 181 clear
+ 182 history clear
+ 183 history
+ 184 clear
+ 185 ~/.bash_history
+ 186 mkdir lana
+ 187 cd lana
+ 188 cd ..
+ 189 rmdir lana
+ 190 ls
+ 191 clear
+ 192 touch cat.txt
+ 193 cat cat.txt
+ 194 rm cat.txt
+ 195 touch test.txt
+ 196 echo "hello" > test.txt
+ 197 cat text.txt
+ 198 cat test.txt
+ 199 mv text.txt test.txt
+ 200 mv text.txt > test.txt
+ 201 mv text.txt hi.txt
+ 202 ls
+ 203 mv test.txt text.txt
+ 204 ls
+ 205 mkdir hi
+ 206 mv text.txt hi
+ 207 ls
+ 208 cd hi
+ 209 la
+ 210 ls
+ 211 cd ..
+ 212 mv hi hello
+ 213 ls
+ 214 apk info python3
+ 215 date
+ 216 uptime
+ 217 du -sh ~
+ 218 apl add php
+ 219 apk add php7
+ 220 apk add openjdk11
+ 221 apk add openjdk8
+ 222 apk add mariadb mariadb-client
+ 223 clear
+ 224 ls
+ 225 cd hello
+ 226 ls
+ 227 rm text.txt
+ 228 cd ..
+ 229 rmdir hello
+ 230 ls
+ 231 apk info python3
+ 232 apk info jdk8
+ 233 jdk8
+ 234 apk info openjdk8
+ 235 cd 237012510_Tarlac
+ 236 history -c
+ 237 mkdir linux_practice
+ 238 cd linux_practice
+ 239 touch notes.txt
+ 240 ls >> notes.txt
+ 241 echo "Hello, Linux!" > notes.txt
+ 242 cat notes.txt
+ 243 echo "This is a practical exam." > notes.txt
+ 244 head -n 1 notes.txt
+ 245 cat -n 1 notes.txt
+ 246 tail -n 1 notes.txt
+ 247 cat notes.txt
+ 248 rm notes.txt
+ 249 cd ..
+ 250 rm linux_practice
+ 251 rmdir linux_practice
+ 252 cd 237012510_Tarlac
+ 253 history -c 
+ 254 mkdir linux_practice
+ 255 cd linux_practice
+ 256 touch notes.txt
+ 257 ls > notes.txt
+ 258 cat notes.txt
+ 259 echo "Hello, Linux!" > notes.txt
+ 260 echo "This is a pratical exam." >> notes.txt
+ 261 head -n 1 notes.txt
+ 262 tail -n 1 notes.txt 
+ 263 mkdir subdir
+ 264 mv notes.txt subdir
+ 265 cd subdir
+ 266 ls
+ 267 cp notes.txt linux_practice
+ 268 cd ..
+ 269 ls
+ 270 cd subdir
+ 271 mv notes.txt linux_pratice 
+ 272 cd ..
+ 273 date
+ 274 uptime
+ 275 du -sh ~
+ 276 apk info openssh
+ 277 apk info apache2
+ 278 apk info python3
+ 279 apk info openjdk8
+ 280 gh repo clone https://github.com/lananreen/237012510_Tarlac.git
+ 281 cd 237012510_Tar
+ 282 cd 237012510_Tarlac
+ 283 cd ..
+ 284 git checkout -b finalexam
+ 285 history > exam_log.txt
