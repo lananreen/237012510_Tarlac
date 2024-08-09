@@ -284,3 +284,68 @@
  283 cd ..
  284 git checkout -b finalexam
  285 history > exam_log.txt
+ 286 git add exam_log.txt
+ 287 git commit -m "Added exam_log.txt with command history"
+ 288 cd linux_practice
+ 289 ls
+ 290 cd subdir
+ 291 ls
+ 292 mkdir linux_practice
+ 293 rmdir linux_practice
+ 294 cd ..
+ 295 rmdir linux_practice
+ 296 cd linux_practice
+ 297 ls
+ 298 rmdir subdir
+ 299 cd subdir
+ 300 ls
+ 301 ce linux_practice
+ 302 cd linux_practice
+ 303 rm linux_practice
+ 304 ls
+ 305 rm linux_practice
+ 306 ls
+ 307 rmdir linux_practice
+ 308 ld
+ 309 ls
+ 310 cd linux_practice
+ 311 rm linux_practice
+ 312 cd ..
+ 313 rmdir subdir
+ 314 cd subdir
+ 315 ls
+ 316 rmdir linux_pratice
+ 317 rm linux_pratice
+ 318 cd ..
+ 319 rmdir subdir
+ 320 cd ..
+ 321 rmdir linux_practice
+ 322 cd 237012510_Tar
+ 323 cd 237012510_Tarlac
+ 324 history -c
+ 325 mkdir linux_practice
+ 326 cd linux_practice
+ 327 touch notes.txt
+ 328 ls > notes.txt
+ 329 echo "Hello, Linux!" > notes.txt
+ 330 echo "This is a practical exam." >> notes.txt
+ 331 cat notes.txt
+ 332 head -n 1 notes.txt
+ 333 tail -n 1 notes.txt
+ 334 mkdir subdir
+ 335 mv notes.txt subdir
+ 336 cd subdir
+ 337 ls
+ 338 cp notes.txt ../copy_ofnotes.txt
+ 339 cd ..
+ 340 ls
+ 341 date
+ 342 uptime
+ 343 du -sh ~
+ 344 apk info python3
+ 345 apk info apache2
+ 346 apk info openssh
+ 347 cd ..
+ 348 git checkout -b final exam
+ 349 git checkout -b finalexam
+ 350 history > exam_log.txt
